@@ -1,26 +1,36 @@
-## Welcome to Raptus Utvikling AS! 👋
+## Velkommen til Raptus Utvikling AS! 👋
 
-### 🙋‍♀️ About Us
-We're a dynamic software development company focused on creating innovative solutions and delivering high-quality code. Our team is passionate about modern technologies and best practices in software engineering.
+### 🏠 Om oss
 
-### 🌈 What We Do
-- 🚀 Building scalable applications and services
-- 💡 Developing innovative software solutions
-- 🔧 Maintaining and improving open-source projects
-- 🤝 Collaborating with teams across the globe
+Vi er teamet bak **[Blag](https://blag.no)** — en moderne hjemmesideløsning laget spesielt for borettslag og sameier i Norge.
 
-### 👩‍💻 Get Involved
-Interested in our work? Here's how you can engage with us:
-- Explore our public repositories
-- Report issues and suggest improvements
-- Follow our projects and stay updated
-- Reach out for collaboration opportunities
+Vårt mål er å gjøre det enkelt for boligselskaper å kommunisere med beboerne sine, dele viktig informasjon og bygge sterkere fellesskap.
 
-### 🍿 Fun Facts
-- ☕ Our team runs on coffee and innovative ideas
-- 🎯 We believe in continuous learning and improvement
-- 🌟 Quality code and user experience are at the heart of everything we do
+### 🌈 Hva vi bygger
+
+**Blag** tilbyr sikre, responsive nettsider skreddersydd for norske boligselskaper:
+
+- 📰 **Nyheter og kunngjøringer** — Hold beboerne oppdatert på det som skjer
+- 📅 **Kalender og arrangementer** — Koordiner møter, dugnader og sosiale sammenkomster
+- 📄 **Dokumenter** — Del viktige filer, husordensregler og møtereferater
+- 📝 **Egne sider** — Lag informasjonsinnhold spesifikt for deres fellesskap
+- 📱 **Mobilvennlig design** — Fungerer sømløst på alle enheter
+
+### 💡 Vår tilnærming
+
+- **Fellesskapsfokusert** — Designet rundt det beboerne faktisk trenger
+- **Moderne teknologi** — Bygget med .NET, Blazor og beste praksis
+- **Multi-tenant** — Hvert boligselskap får sin egen dedikerte side
+- **Norsk først** — Laget for det norske boligmarkedet
+
+### 👩‍💻 Ta kontakt
+
+Interessert i det vi driver med? Slik kan du engasjere deg:
+
+- Utforsk våre repositories og utviklingsmetoder
+- Besøk [blag.no](https://blag.no) for å lære mer om plattformen
+- Ta kontakt for samarbeidsmuligheter
 
 ---
 
-*Built with ❤️ by the Raptus Utvikling AS team*
+*Et godt sted å bo — Laget med ❤️ i Norge av Raptus Utvikling AS*
